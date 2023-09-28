@@ -1,2 +1,6 @@
 # SQL-Project---Parch-and-Posey
-This is a SQL project aimed at analyzing Parch and Posey, a paper and e-commerce company's sales data
+---------------------------------------------------------------------------------------------------
+## Introduction
+Parch and Posey is an hypothetical paper company, who specializes in the sales of quality paper types such as: Standard, Gloss and Poster.
+The database consists of different tables linked with a database schema. To create a database from scratch and insert all tables, a prewritten
+code can be found [here] ![]()

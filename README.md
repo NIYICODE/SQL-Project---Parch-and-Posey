@@ -11,4 +11,4 @@ Then, copy the codes for the creation of different tables and run it in your SQL
 
 Using Transact-SQL, I demonstrated and explored different functional aspects of the Structured Query Language(SQL) from Basic to Advanced.
 
-![](Parch and Posey ERD.jpg)
+![](https://github.com/NIYICODE/SQL-Project---Parch-and-Posey/blob/main/Parch%20and%20Posey%20ERD.png)

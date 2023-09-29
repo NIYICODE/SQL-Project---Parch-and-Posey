@@ -23,4 +23,6 @@ Some of the business questions this project provided answers to are;
 6. Create a reward rate system for the customers of parch and Posey
 
 ## Sills Demonstrated
-
+---------------------------------------------------------------------------------------------------------------------
+The following SQL Concepts were utilized
+Data Cleaning, SQL JOINS, SUBQUERY & CTEs etc
